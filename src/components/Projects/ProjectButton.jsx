@@ -1,5 +1,5 @@
 
-import "./Projectbutton.css"
+import "./ProjectButton.css"
 
 // eslint-disable-next-line react/prop-types
 const ProjectButton = ({ projectLink }) => {
